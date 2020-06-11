@@ -1,7 +1,7 @@
 # Site
 name: "LJT"
 title: "LJT"
-description: "这里是李佳彤的个人主页，你可以在这里看到关于我的创作"
+description: "这里是LJT的个人主页，你可以在这里看到关于我的创作"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/lookswhite.github.io'
@@ -14,19 +14,19 @@ email: xiahan@cuc.edu.cn
 
 # Authors
 authors:
-  sal:
+  LJT:
     name: LJT
     display_name: LJT
-    avatar: 'assets/images/LJT.jpg'
+    avatar: 'assets/images/head/LJT.jpg'
     # gravatar: e56154546cf4be74e393c62d1ae9f9d4
     # email: wowthemesnet@gmail.com
     # web: https://www.wowthemes.net/donate/
     # twitter: https://twitter.com/wowthemesnet
     # description: "."
-  john:
+  enhui:
     name: enhui
     display_name: enhui
-    avatar: 'assets/images/enhui.jpg'
+    avatar: 'assets/images/head/enhui.jpg'
     # gravatar: b1cc14991db7a456fcd761680bbc8f81
     # email: wowthemesnet@gmail.com
     # web: https://www.wowthemes.net
@@ -72,7 +72,7 @@ adsense-data-ad-slot: "1363087678"
 lazyimages: "disabled"
 
 # Post Author Box ("enabled" or "disabled")
-authorbox: "enabled"
+authorbox: "disabled"
 
 # Sass
 sass:
